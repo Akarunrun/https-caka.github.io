@@ -1,0 +1,40 @@
+
+
+
+header{
+    text-align: center;
+}
+.log img{
+    margin: 0;
+    width: 100px;
+}
+h2{
+    font-family: 'Hind', sans-serif;
+    color: #696969;
+    margin: 19px 0 0 0;
+}
+.cakamap{
+    margin: 0 24px;
+}
+
+.cakamap img{
+    width: 100%;
+}
+
+.wrapper{
+    
+    margin: 0 24px;
+
+}
+.cm{
+    margin: 30px 0 7px 24px;
+
+}
+
+
+p{
+    font-family: "Hannari";  
+    color: #696969;
+    margin: 0 ;
+
+}
