@@ -31,7 +31,10 @@ h2{
 
 }
 
+a{
+    text-decoration: none;
 
+}
 p{
     font-family: "Hannari";  
     color: #696969;
